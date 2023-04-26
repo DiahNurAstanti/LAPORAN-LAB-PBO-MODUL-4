@@ -1,3 +1,6 @@
+SOAL :
+Buatlah satu kelas yang nantinya kelas tersebut memiliki 3 kelas turunan, dan juga terapkan method overriding pada kelas turunannya.
+
 //Class Bunga:
 public class Bunga {
     private String nama;
